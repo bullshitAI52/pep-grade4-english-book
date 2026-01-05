@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Images (原始图片文件不上传，太大)
+*.webp
+*.png
+*.jpg
+*.jpeg
+
+# 只保留 PDF
+# !四年级英语pep下册.pdf

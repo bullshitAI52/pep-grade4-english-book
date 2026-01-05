@@ -1,0 +1,141 @@
+| English | Chinese |
+|---|---|
+| sorry | 对不起 |
+| late | 迟到; 迟发生 |
+| class | 课; 课程; 班; 班级 |
+| hurry up | 快点; 赶快 |
+| ready | 准备好 |
+| rule | 规则; 规章 |
+| classroom | 教室 |
+| turn off | 关掉 |
+| light | 灯; 光 |
+| blackboard | 黑板 |
+| desk | 书桌; 办公桌 |
+| chair | 椅子 |
+| tidy | 整洁的; 整齐的; 使整洁; 整理 |
+| music | 音乐 |
+| wall | 墙; 壁 |
+| door | 门 |
+| window | 窗 |
+| fan | 风扇 |
+| when | 当……时; 什么时候 |
+| understand | 懂; 理解 |
+| newspaper | 报纸 |
+| hand out | 分发 |
+| workbook | 练习册; 作业本 |
+| watch | 看 |
+| TV | 电视 |
+| homework | 家庭作业 |
+| first | 首先; 首次; 第一 |
+| wet | 湿的; 未干的 |
+| run | 跑; 奔跑 |
+| house | 房子 |
+| safe | 安全的 |
+| word | 言语; 单词; 字 |
+| wash | 洗 |
+| loud | 说话太大声的; 吵闹的 |
+| sleep | 睡觉 |
+| bedroom | 卧室 |
+| kitchen | 厨房 |
+| living room | 客厅; 起居室 |
+| study | 书房 |
+| bathroom | 浴室; 洗手间 |
+| work | (花费时间和精力)做(某事); 工作 |
+| think | 想; 思考 |
+| hard | 努力地; 费力地 |
+| follow | 遵循, 听从 (忠告、指示等) |
+| feel | 觉得; 感到 |
+| over | 结束(的) |
+| kid | 小孩 |
+| dinner | (中午或晚上吃的)正餐 |
+| art | 美术; 艺术 |
+| lunch | 午餐 |
+| maths | 数学 |
+| get up | 起床 |
+| go to school | 上学 |
+| go home | 回家 |
+| go to bed | 上床睡觉 |
+| want | 想要 |
+| clock | 时钟 |
+| just | 只是; 仅仅; 正要 |
+| minute | 分钟 |
+| trousers | 裤子 |
+| pair | (由连在一起的相似两部分构成的)一条, 一副 |
+| clothes | 衣服; 服装 |
+| shorts | 短裤 |
+| jacket | 夹克衫 |
+| skirt | 裙子 |
+| dear | 天哪 |
+| expensive | 昂贵的; 价格高的 |
+| take | 买下 |
+| cheap | 便宜的 |
+| shoe | 鞋 |
+| beautiful | 美丽的 |
+| hat | 帽子 |
+| sunglasses | 太阳镜: 墨镜 |
+| free | 免费的 |
+| large | (服装、食物、日用品等)大型号的 |
+| size | 尺码: 号 |
+| list | 清单; 目录 |
+| try on | 试穿 |
+| any | 任何的: 任一的 |
+| cow | 奶牛 |
+| horse | 马 |
+| sheep | 绵羊 |
+| pig | 猪 |
+| chicken | 鸡; 鸡肉 |
+| tomato | 西红柿 |
+| bee | 蜜蜂 |
+| mouse | (复数mice ) 老鼠 |
+| carrot | 胡萝卜 |
+| potato | 土豆 |
+| green bean | 四季豆 |
+| can | (盛食品或饮料的)金属罐 |
+| a box of | 一盒, 一箱(东西) |
+| feed | 给(人或动物)食物; 饲养 |
+| pass | 给; 递 |
+| pick | 采; 摘 |
+| milk | 挤奶 |
+| knife | 刀 |
+| fork | 餐叉 |
+| chopstick | (常用复数)筷子 |
+| waste | 浪费; 废品 |
+| food | 菜肴; 食物 |
+| delicious | 美味的; 可口的 |
+| clear the table | 收拾餐桌 |
+| bowl | 碗 |
+| spoon | 勺; 匙; 调羹 |
+| set the table | 摆放餐具 |
+| supermarket | 超市 |
+| by oneself | (某人)独立地; 单独 |
+| week | 周; 星期 |
+| salad | 蔬菜沙拉 |
+| ad | 广告 |
+| one | 一 |
+| two | 二 |
+| three | 三 |
+| four | 四 |
+| five | 五 |
+| six | 六 |
+| seven | 七 |
+| eight | 八 |
+| nine | 九 |
+| ten | 十 |
+| eleven | 十一 |
+| twelve | 十二 |
+| thirteen | 十三 |
+| fourteen | 十四 |
+| fifteen | 十五 |
+| sixteen | 十六 |
+| seventeen | 十七 |
+| eighteen | 十八 |
+| nineteen | 十九 |
+| twenty | 二十 |
+| thirty | 三十 |
+| forty | 四十 |
+| fifty | 五十 |
+| sixty | 六十 |
+| seventy | 七十 |
+| eighty | 八十 |
+| ninety | 九十 |
+| hundred | 百 |
